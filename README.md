@@ -12,8 +12,6 @@
   <a href="https://github.com/beasantanar" target="_blank">Autor</a>
 </p>
 
-<br>
-
 ## :dart: Sobre
 
 O projeto faz parte do Desafio 7 projetos em 7 dias – Edição JavaScript da B7Web. <br>
